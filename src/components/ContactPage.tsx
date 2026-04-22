@@ -82,7 +82,7 @@ export default function ContactPage() {
                 Let&apos;s Work Together
               </h1>
               <p className="text-lg text-muted-foreground mt-4 leading-relaxed">
-                If you need someone who understands security operations from the ground up — detection rules, SOC workflows, and real incident response — let&apos;s talk.
+                If you need someone who understands security operations from the ground up: detection rules, SOC workflows, and real incident response — let&apos;s talk.
               </p>
             </motion.div>
           </div>
@@ -103,7 +103,7 @@ export default function ContactPage() {
                 <div>
                   <h3 className="text-lg font-semibold mb-3">Reach out directly</h3>
                   <p className="text-muted-foreground leading-relaxed">
-                    Whether you need to build a detection engineering program, set up a SIEM pipeline, or need help with security assessments — I&apos;m happy to discuss how I can contribute to your team.
+                    Whether you need to build a detection engineering program, set up a SIEM pipeline, or need help with security assessments. I&apos;m happy to discuss how I can contribute to your team.
                   </p>
                 </div>
 
